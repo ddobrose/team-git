@@ -1,3 +1,3 @@
 neato;
 
-let jacob = "god";
+let jacob = "camp counselour";
