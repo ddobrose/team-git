@@ -1,1 +1,1 @@
-const thisIsAJS = 0;
+// Jacob has changed this line on index.js in dev branch
